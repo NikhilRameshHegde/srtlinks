@@ -6,3 +6,5 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit debitis rerum
 
 ## Repository Purpose  
 Practicing Open Source Contribution with [Shubham Sarda](https://github.com/ShubhamSarda)
+
+This is the 2nd pull request, which you'll reject.
